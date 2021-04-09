@@ -5,7 +5,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Master of Urbanism at University of Sydney.
-- 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
