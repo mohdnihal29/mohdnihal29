@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Master of Urbanism at University of Sydney.
+- 🎓 &nbsp; GIS Analyst and Urban Planner
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 <br/>
